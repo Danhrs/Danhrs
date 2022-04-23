@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, My name is Daniel Henrique 👋
 
-<!--
-**Danhrs/Danhrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ I’m currently working on electrical engineering internship
+- 👨🏽‍💻 I’m currently learning HTML, CSS and JavaScript
+- 🚩 I’m looking for help with HTML, CSS and JavaScript
+- 🙎🏽‍♂️ Pronouns: Ele/dele (he/him)
+- 🍔 Fun fact: I love hamburger
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/Danhrs">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Danhrs&show_icons=true&title_color=f29b97&icon_color=800000&text_color=d54240&bg_color=DEG,0b0b0b,222222"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danhrs&layout=compact&langs_count=23&&title_color=f29b97&icon_color=800000&text_color=d54240&bg_color=DEG,222222,0b0b0b"/>
+</div>
