@@ -1,8 +1,8 @@
 ### Hi there, My name is Daniel Henrique 👋
 
 - ⚡ I’m currently working on electrical engineering internship
-- 👨🏽‍💻 I’m currently learning HTML, CSS, JavaScript and Python
-- 🚩 I’m looking for help with HTML, CSS, JavaScript and Python
+- 👨🏽‍💻 I’m currently learning HTML, CSS, JavaScript, Python and PHP
+- 🚩 I’m looking for help with HTML, CSS, JavaScript, Python and PHP
 - 🙎🏽‍♂️ Pronouns: Ele/dele (he/him)
 - 🍔 Fun fact: I love hamburger
 
