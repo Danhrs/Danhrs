@@ -1,6 +1,6 @@
 ### Hi there, My name is Daniel Henrique 👋
 
-- ⚡ I’m currently working on electrical engineering internship
+- ⚡ I’m currently working on Robotics Teacher
 - 👨🏽‍💻 I’m currently learning HTML, CSS, JavaScript, Python and Java
 - 🚩 I’m looking for help with HTML, CSS, JavaScript, Python and Java
 - 🙎🏽‍♂️ Pronouns: Ele/dele (he/him)
